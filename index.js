@@ -18,6 +18,7 @@ import Promo from './lib/hits/Promo';
 import ScreenView from './lib/hits/ScreenView';
 import Social from './lib/hits/Social';
 import Timing from './lib/hits/Timing';
+import TrafficSource from './lib/hits/TrafficSource';
 import Transaction from './lib/hits/Transaction';
 
 import _Analytics from './lib/Analytics';
@@ -34,6 +35,7 @@ export const Hits = {
   ScreenView,
   Social,
   Timing,
+  TrafficSource,
   Transaction
 };
 
